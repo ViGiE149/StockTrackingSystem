@@ -1,0 +1,9 @@
+sep=,
+PRODUCT,REQUIRED,AVAILABLE,lDATE,STATUS
+Dish_washing_liquid,27,4,25/6/2021,Too_Low
+Hard_surface_cleaner,12,4,3/6/2021,Too_Low
+Thin_bleach,27,42,19/6/2021,Good
+Thick_beach,27,9,23/6/2021,Too_Low
+pine_Gel,16,16,16/6/2021,good
+Pine_disinfectants,27,27,21/6/2026,good
+null,null,null,null,null
